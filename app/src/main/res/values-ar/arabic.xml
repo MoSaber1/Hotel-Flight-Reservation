@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gologin">Login Me</string>
+    <string name="regist">Rigister</string>
+    <string name="alreadyregest">Already Registered!Login Me</string>
+    <string name="Book">Book</string>
+    <string name="Anight">A night</string>
+    <string name="EGP">EGP</string>
+    <string name="tolip_hotel">Tolip hotel</string>
+    <string name="very">Very good</string>
+    <string name="Anight980EGP">A night 980EGP</string>
+    <string name="hotels">Hotels</string>
+    <string name="Destination">Select a country :</string>
+    <string name="room">How many rooms?</string>
+    <string name="adult">How many adults?</string>
+    <string name="childern">How many childerns?</string>
+    <string name="checkIn">Check-in date:</string>
+    <string name="checkOut">Check-out date:</string>
+    <string name="num1">1</string>
+    <string name="num2">1</string>
+    <string name="num3">0</string>
+    <string name="apply">Search</string>
+    <string name="add_button">adding</string>
+    <string name="minus_button">minusing</string>
+    <string name="date">save my date</string>
+    <string name="welcome">Welcome</string>
+    <string name="Flights">FLIGHTS</string>
+    <string name="Hotels">HOTELS</string>
+    <string name="Confirm">Confirm</string>
+    <string name="Totalbookingprice">Total booking price :</string>
+    <string name="Visanumber">Visa number :</string>
+    <string name="Name">Name :</string>
+    <string name="CheckOut">Check-Out</string>
+    <string name="email">الايميل :</string>
+    <string name="app_name">Application_1</string>
+    <string name="upcoming_flights">الرحلات القادمة</string>
+    <string name="filter">تصنيف</string>
+    <string name="go">اختار</string>
+    <string name="cost1">٤,٣٠٤ ج.م</string>
+    <string name="cost2">٣,٢٠٢ ج.م</string>
+    <string name="cost3">٣,٩٤٨ ج.م</string>
+    <string name="cost4">٥,٠٢١ ج.م</string>
+    <string name="time1">٥س ٢٥د</string>
+    <string name="time2">٥س ١٥د</string>
+    <string name="time3">٤س ٤٥د</string>
+    <string name="time4">٥س ٥٠د</string>
+    <string name="timefrom1">٠٩:١٠</string>
+    <string name="timefrom2">١٦:٣٥</string>
+    <string name="timefrom3">٠٦:١٥</string>
+    <string name="timefrom4">١١:٠٠</string>
+    <string name="timeto1">١٤:٣٥</string>
+    <string name="timeto2">٢١:٥٠</string>
+    <string name="timeto3">١١:٠٠</string>
+    <string name="timeto4">١٦:٥٠</string>
+
+</resources>
